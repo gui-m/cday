@@ -1,0 +1,26 @@
+h1	{
+	color: red;
+	background-image: url("");
+	font-family: helvetica ;
+}
+a	{
+	color: salmon;
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 3px;
+
+
+}
+a:hover {
+	color: white;
+	background-color: black;
+}
+#banner{
+background-color: orange;
+}
+.card{
+	background-color: green;
+}
+.shadow{
+	box-shadow: 5px 5px 3px black ;
+}
