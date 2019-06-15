@@ -1,0 +1,34 @@
+note workshop wagon : HTML CCS & API
+Antony Lionnet, accueil par Matthieu
+
+anthonylnt.github.io/codingday
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    page intelligence
+    <title>Coding day landing page</title>
+  </head>
+
+
+  caniuse.i : check code parts
+
+ ¨PART 2 apm"
+ api consumption
+ histoire de yuka : check openfoodfacts à la base, avec code barre produit.
+ programmableweb.com recense les api existantes.
+ API ReST : par http://, via post / get (les méthodes)
+ twillio.com : service de messaging (sms auth ...) stripe.com pour le payement.
+ meetup like : place un event sur une map.
+ Google geocoding api. 
+
+ Webhook : ex, pour appeler régulièrement une API pour récupérer qqch d'utile.
+zappier : connect apis
+
+Atelier ...
+
+Tweak SublimText Ctrl+maj+P install package color highligths
+
+
